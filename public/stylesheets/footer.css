@@ -1,0 +1,19 @@
+/* FOOTER */
+
+footer{
+    
+    border-radius: 20px 20px 0 0;
+    height: 100px;
+    width: 100%;
+    background-color: dimgray;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+footer .footer-caja{
+    height: 50%;
+    width: 20%;
+    background: cadetblue;
+    border-radius: 10px;
+}
